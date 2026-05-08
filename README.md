@@ -10,25 +10,29 @@ Upon completing the full program, you will have built a portfolio of data scienc
 
 This program is ACE® and FIBAA recommended —when you complete, you can earn up to 12 college credits and 6 ECTS credits.
 ---
+
 Applied Learning Project
 
 This Professional Certificate has a strong emphasis on applied learning and includes a series of hands-on labs in the IBM Cloud that give you practical skills with applicability to real jobs. You'll also have the option to learn how generative AI tools and techniques are used in data science.
+
 ---
 Tools you’ll use: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+
 ---
+
 Libraries you’ll use: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
 Projects you’ll complete:
 
-    Extract and graph financial data with the Pandas Python library
+    - Extract and graph financial data with the Pandas Python library
 
-    Use SQL to query census, crime, and school demographic data sets
+    - Use SQL to query census, crime, and school demographic data sets
 
-    Wrangle data, graph plots, and create regression models to predict housing prices with data science Python libraries
+    - Wrangle data, graph plots, and create regression models to predict housing prices with data science Python libraries
 
-    Create a dynamic Python dashboard to improve US domestic flight reliability
+    - Create a dynamic Python dashboard to improve US domestic flight reliability
 
-    Apply machine learning classification algorithms to predict whether a loan case will be paid off
+    - Apply machine learning classification algorithms to predict whether a loan case will be paid off
 
-    Train and compare machine learning models
+    - Train and compare machine learning models
 
