@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🤖 [Your Name] | Aspiring Data Scientist
+# 🤖 SUBHAN ULLAH AL-FAQEER | Aspiring Data Scientist
 ### *Uncovering actionable insights through the lens of Data Science*
 
-[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url)
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/b73568487748b8a3e4628eb620f752c3)
 [![Status](https://img.shields.io/badge/Progress-Course%2001%20Complete-success?style=for-the-badge)](https://coursera.org/share/b73568487748b8a3e4628eb620f752c3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINK_HERE)
 
@@ -16,8 +16,8 @@
 
 | **Digital Competency Badge** | **Official Certificate (PDF)** |
 | :---: | :---: |
-| <a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badges/001_Data Science Orientation.png" width="220" alt="IBM Badge"></a> | <a href="assets/certificate.pdf"><img src="../assets/badgesCerts/001_Data Science Orientation-1.png" width="380" alt="View Certificate"></a> |
-| [🛡️ Verify on Credly]([https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url)) | [📥 Download Full PDF]([assets/certificate.pdf](https://coursera.org/share/b73568487748b8a3e4628eb620f752c3)) |
+| <a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badges/001_Data Science Orientation.png" width="220" alt="IBM Badge"></a> | <a href="assets/certificate.pdf"><img src="../assets/certificates/001 Coursera What is Data Science_.pdf-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly]([https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url)) | [🛡️ Verify on Coursera]([assets/certificate.pdf](https://coursera.org/share/b73568487748b8a3e4628eb620f752c3)) |
 
 </div>
 
