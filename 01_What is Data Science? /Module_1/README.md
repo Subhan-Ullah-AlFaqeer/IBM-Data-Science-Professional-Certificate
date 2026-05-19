@@ -1,5 +1,5 @@
 # 📊 Module 1: Foundations & The Professional Landscape
-### *IBM Data Science Professional Certificate — Course 1 — Module 1*
+### *IBM Data Science Professional Certificate — Course 1*
 
 ![Module Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Category](https://img.shields.io/badge/Focus-Core%20Concepts-blue?style=for-the-badge)
