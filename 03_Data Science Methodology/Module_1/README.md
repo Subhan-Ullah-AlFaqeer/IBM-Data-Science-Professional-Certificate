@@ -1,12 +1,53 @@
-In this module, you will discover what makes data science engaging, learn what a data science methodology is, and understand why it is essential for data scientists. You will then gain deeper insight into the first two stages of the data science methodology: Business Understanding and Analytic Approach. You will explore the key considerations and steps required to define data requirements, including those needed for decision tree classification during the Data Requirements stage. You will also learn about the processes and techniques data scientists use to assess data content, quality, and initial insights, as well as how they manage data gaps. The module concludes with hands-on practice, where you will apply Business Understanding and Analytic Approach stage tasks, along with Data Requirements and Data Collection stage tasks, to real-world data science problems.
-Learning Objectives
+# 🎯 Course 3, Module 1: Business Understanding, Analytic Approach, & Data Requirements
+### *Data Science Methodology — Course 3*
+
+![Module Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Category](https://img.shields.io/badge/Focus-Problem%20Formulation%20%26%20Sourcing-blue?style=for-the-badge)
 
 ---
 
-    ---> Apply the first four phases of the data science methodology to a case study.
-    ---> Compose clearly defined questions that address a business problem.
-    ---> Analyze a case study to determine data requirements.
-    ---> Apply the data science methodology to a case study.
-    ---> Determine data content, data formats, and data sources prior to data collection and data preparation phases.
-    ---> Create a decision tree to classify outcomes in a case study.
-    ---> Identify appropriate data sources to address a business problem.
+## 📝 Overview
+In this foundational methodology module, I analyzed the core operational frameworks that make data science a rigorous, scientific discipline. Rather than rushing directly into coding, I focused on the vital upstream stages of the methodology lifecycle: **Business Understanding**, **Analytic Approach**, **Data Requirements**, and **Data Collection**.
+
+Through intensive hands-on case studies, I developed the skills required to transform ambiguous, real-world corporate bottlenecks into highly defined, mathematically testable analytical goals, ensuring that all subsequent data engineering remains aligned with business objectives.
+
+---
+
+## 🎯 Key Milestones & Learning Objectives
+
+### 💼 1. Business Understanding & Analytic Approach
+*   **Problem Scoping:** Mastered the art of composing sharply focused, unambiguous questions that directly target root business issues.
+*   **Methodological Selection:** Evaluated criteria for choosing the correct analytical framework (e.g., descriptive, predictive, or prescriptive models) based on the formulated problem constraints.
+*   **Classification Strategies:** Engineered **Decision Tree** structures to logically segment and classify categorical outcomes within business case scenarios.
+
+### 📋 2. Data Requirements & Content Assessment
+*   **Structural Data Requirements:** Analyzed project goals to determine the exact datasets, features, variables, and data volumes required prior to initializing collection pipelines.
+*   **Upstream Architecture Audit:** Evaluated data content, system formats, and ingestion sources to ensure compliance with model requirements.
+*   **Quality Control & Gap Analysis:** Developed systematic techniques to audit data quality, extract initial exploratory insights, and strategically manage data gaps or missing variables without compromising model validity.
+
+---
+
+## 🧪 Applied Lab Capstones
+*   **Methodology Case Studies:** Successfully applied the first four phases of the Data Science Methodology to high-stakes, real-world scenarios.
+*   **Source Optimization:** Identified, vetted, and cross-referenced diverse enterprise data sources to address specific corporate bottlenecks.
+
+---
+
+## ⚙️ Lifecycle Phase Matrix (Stages 1–4)
+
+| Phase | Core Objective | Key Action Executed |
+| :--- | :--- | :--- |
+| **1. Business Understanding** | Define the corporate issue | Formulate clear, actionable business questions |
+| **2. Analytic Approach** | Select the model type | Design decision trees and classification pathways |
+| **3. Data Requirements** | Outline necessary variables | Determine specific data content, formats, and sources |
+| **4. Data Collection** | Harvest the raw data assets | Assess data quality, manage data gaps, and ingest assets |
+
+---
+
+## 🧠 Core Competencies Built
+`Problem Formulation` • `Decision Tree Classification` • `Data Scoping` • `Data Quality Audit` • `Gap Management`
+
+---
+<div align="center">
+  <a href="../">🔙 Back to Main Portfolio</a>
+</div>
