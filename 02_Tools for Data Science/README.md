@@ -1,10 +1,11 @@
 <div align="center">
-
-# 🤖 Data Science Journey | IBM Professional Specialization
+  
+# Course 2: Tools For Data Science
+## 🤖 Data Science Journey | IBM Professional Specialization
 ### *Engineering Insights from Complex Data Ecosystems • Transforming Raw Data into Strategic Value*
 
-[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url)
-[![Status](https://img.shields.io/badge/Progress-Course%2001%20Complete-success?style=for-the-badge)](https://coursera.org/share/b73568487748b8a3e4628eb620f752c3)
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://www.credly.com/badges/2c16f69e-e1a9-4e50-9324-ace69ecdcfc8/public_url)
+[![Status](https://img.shields.io/badge/Progress-Course%2002%20Complete-success?style=for-the-badge)](https://coursera.org/share/049e8476ee95d1af26f3b71806c4598c)
 
 </div>
 
@@ -15,8 +16,8 @@
 
 | **Digital Competency Badge** | **Official Certificate (PDF)** |
 | :---: | :---: |
-| <a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="assets/badge.png" width="220" alt="IBM Data Science Badge"></a> | <a href="assets/certificate.pdf"><img src="assets/certificate-preview.jpg" width="380" alt="View PDF Certificate"></a> |
-| [🛡️ Verify on Credly](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url) | [📥 Download Full PDF](assets/certificate.pdf) |
+| <a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badges/002_Tools for Data Science V2.png" width="220" alt="IBM Data Science Badge"></a> | <a href="https://coursera.org/share/049e8476ee95d1af26f3b71806c4598c"><img src="../assets/certificates/002 Coursera Tools for Data Science-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/049e8476ee95d1af26f3b71806c4598c) |
 
 </div>
 
@@ -37,14 +38,12 @@ Through this specialized curriculum, I am actively developing the tools to decod
 
 ## 📂 Curriculum Roadmap & Documentation
 
-I have organized my journey into distinct, deep-dive sub-directories. Click on any active module to review my technical notes, project architectures, and core summaries:
-
-| Module | Status | Core Technical Focus | Documentation |
-| :--- | :---: | :--- | :---: |
-| **01. Foundations & Landscape** | ✅ | Career Paths, Roles, & Process Lifecycles | [📂 View Notes](./Course-01) |
-| **02. Big Data, Cloud & AI** | ✅ | Hadoop, Cloud Specs, Regression, GenAI | [📂 View Notes](./Course-02) |
-| **03. Business & Placement** | ✅ | Corporate Case Studies, Executive Storytelling | [📂 View Notes](./Course-03) |
-| **04. Data Literacy Supplement** | ✅ | Structured/Unstructured Data, Metadata | [📂 View Notes](./Course-04) |
+| Module | Status | Core Technical Focus |
+| :--- | :---: | :--- |
+| **01. Foundations & Landscape** | ✅ | Career Paths, Roles, & Process Lifecycles |
+| **02. Big Data, Cloud & AI** | ✅ | Hadoop, Cloud Specs, Regression, GenAI |
+| **03. Business & Placement** | ✅ | Corporate Case Studies, Executive Storytelling |
+| **04. Data Literacy Supplement** | ✅ | Structured/Unstructured Data, Metadata |
 
 ---
 
