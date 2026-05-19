@@ -40,7 +40,7 @@ Through this introductory phase, I have successfully transitioned into the minds
 
 | Module | Status | Highlights |
 | :--- | :---: | :--- |
-| **01. What is Data Science?** | ✅ | [View Detailed Notes](01_What is Data Science?) |
+| **01. What is Data Science?** | ✅ | [View Detailed Notes](https://www.coursera.org/learn/what-is-datascience/supplement/KP3tb/summary-data-literacy-for-data-science) |
 | **02. Tools for Data Science** | ⏳ | Python, SQL, & Jupyter Environments |
 | **03. Data Science Methodology** | 📅 | Problem-to-Solution Framework |
 
