@@ -1,6 +1,6 @@
 <div align="center">
 
-
+# Course 1: What is Data Science
 ### *Uncovering actionable insights through the lens of Data Science*
 
 [![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/b73568487748b8a3e4628eb620f752c3)
