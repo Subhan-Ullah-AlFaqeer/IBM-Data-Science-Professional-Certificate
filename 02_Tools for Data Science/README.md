@@ -14,7 +14,7 @@
 ## 📜 Verified Credentials
 <div align="center">
 
-| **Digital Competency Badge** | **Official Certificate (PDF)** |
+| **Digital Competency Badge** | **Official Certificate** |
 | :---: | :---: |
 | <a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badges/002_Tools for Data Science V2.png" width="220" alt="IBM Data Science Badge"></a> | <a href="https://coursera.org/share/049e8476ee95d1af26f3b71806c4598c"><img src="../assets/certificates/002 Coursera Tools for Data Science-1.png" width="380" alt="View Certificate"></a> |
 | [🛡️ Verify on Credly](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/049e8476ee95d1af26f3b71806c4598c) |
