@@ -1,3 +1,29 @@
+<div align="center">
+
+# Course 4:  🚀 Python for Data Science, AI & Development
+
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/e6767d2bcae60ed2e62594da8c82e560)
+[![Status](https://img.shields.io/badge/Progress-Course%2004%20Complete-success?style=for-the-badge)](https://coursera.org/share/e6767d2bcae60ed2e62594da8c82e560)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+---
+
+## 📜 Professional Verification
+<div align="center">
+
+| **Digital Competency Badge** | **Official Certificate** |
+| :---: | :---: |
+| <a href="https://www.credly.com/badges/856a12f2-a63d-4ecc-ace3-d2eaa8381d45/public_url"><img src="../assets/badges/004_Python for Data Science and AI.png" width="250" alt="IBM Badge"></a> | <a href="https://coursera.org/share/b73568487748b8a3e4628eb620f752c3"><img src="../assets/certificates/004 Coursera Python for Data Science, AI & Development-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/e6767d2bcae60ed2e62594da8c82e560]) |
+
+</div>
+
+---
+
+
 # 🚀 Python for Data Science, AI & Development
 
 Welcome to my comprehensive Python programming repository! This space serves as an end-to-end documentation of my journey from foundational coding to applied data engineering, web scraping, and data analysis. 
