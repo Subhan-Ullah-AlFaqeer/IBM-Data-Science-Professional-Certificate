@@ -1,3 +1,30 @@
+<div align="center">
+
+# Course 5: 📊 Applied Data Science Project: Financial Sourcing & Analytics
+---
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/8d45a1c95289689214bbffda162d174d)
+[![Status](https://img.shields.io/badge/Progress-Course%2005%20Complete-success?style=for-the-badge)](https://coursera.org/share/b73568487748b8a3e4628eb620f752c3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+---
+
+## 📜 Professional Verification
+<div align="center">
+
+| **Digital Competency Badge** | **Official Certificate** |
+| :---: | :---: |
+| <a href="https://www.credly.com/badges/4686c143-3c5e-4e61-b55e-d1d6f6d16a36/public_url"><img src="../assets/badges/001_Data Science Orientation.png" width="220" alt="IBM Badge"></a> | <a href="https://coursera.org/share/8d45a1c95289689214bbffda162d174d"><img src="../assets/certificates/005 Coursera Python Project for Data " width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/4686c143-3c5e-4e61-b55e-d1d6f6d16a36/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/8d45a1c95289689214bbffda162d174d) |
+
+</div>
+
+---
+
+
+
 # 📊 Applied Data Science Project: Financial Sourcing & Analytics
 
 Welcome to my applied data science project repository! This space serves as an end-to-end demonstration of my foundational Python data engineering and analysis skills. 
