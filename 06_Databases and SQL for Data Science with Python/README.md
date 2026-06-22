@@ -1,3 +1,26 @@
+<div align="center">
+
+# Course 6: 📊Databases and SQL for Data Science with Python
+---
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/f793b89ff038686f668218926fb7734b)
+[![Status](https://img.shields.io/badge/Progress-Course%2006%20Complete-success?style=for-the-badge)](https://coursera.org/share/f793b89ff038686f668218926fb7734b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+---
+
+## 📜 Professional Verification
+<div align="center">
+
+| **Digital Competency Badge** | **Official Certificate** |
+| :---: | :---: |
+| <a href="https://www.credly.com/badges/4686c143-3c5e-4e61-b55e-d1d6f6d16a36/public_url"><img src="../assets/badges/006_Databases and SQL for Data Science.png" width="220" alt="IBM Badge"></a> | <a href="https://coursera.org/share/8d45a1c95289689214bbffda162d174d"><img src="../assets/certificates/006 Coursera Databases and SQL for Data Science with Python-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/32b5385e-dcc6-4261-bdd6-c9aecfc8f357/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/f793b89ff038686f668218926fb7734b) |
+
+</div>
+
 # 💾 Advanced SQL for Data Science & Data Engineering
 
 Welcome to my comprehensive Structured Query Language (SQL) master repository! This space serves as an end-to-end technical log documenting my progression from fundamental query scripting to advanced database administration, Python pipeline connectivity, and data engineering architectures. 
