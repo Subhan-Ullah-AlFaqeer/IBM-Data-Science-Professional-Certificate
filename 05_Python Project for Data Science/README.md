@@ -11,7 +11,11 @@
 
 ---
 
-## 📜 Professional Verification
+
+## 🚀 Professional Badges & Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+* 🎓 **Coursera Professional Certificate Verified**
+* 🏅 **IBM Data Science Digital Badge Issued**
 <div align="center">
 
 | **Digital Competency Badge** | **Official Certificate** |
