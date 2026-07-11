@@ -25,4 +25,32 @@ Rather than standard list configurations, my practical lab deliverables are mapp
 
 ## 💡 Visual Pipeline Reference
 
-To maximize communication impact, chart selection is mapped systematically by data relationship type:
+Chart configurations mapped systematically by incoming data structure requirements:
+
+* **Continuous Time Volumes** ➔ Deployed via **Area Plots** to track changing profiles over intervals.
+* **Frequency Density Spreads** ➔ Deployed via **Histograms** to isolate population bin clusters.
+* **5-Number Summary Errors** ➔ Deployed via **Box Plots** to pinpoint medians, ranges, and outliers.
+* **Categorical Compositions** ➔ Deployed via **Bar & Pie Charts** to split structural proportions.
+* **Multi-Variable Tracking** ➔ Deployed via **Scatter & Bubble Plots** to contrast multidimensional dependencies.
+
+---
+
+## 🎯 Technical Skills Architecture
+
+### 📊 Statistical Distribution Pipelines
+* 📊 **Histograms:** Configured continuous data frequency binning splits to diagnose underlying data density shapes.
+* 📦 **Box Plots:** Isolated market anomalies and skewness profiles using explicit Interquartile Range calculations.
+* 🟦 **Area Charts:** Engineered stacked and unstacked cumulative volume arrays over continuous time windows.
+
+### 🛠️ Parametric Canvas Controls
+* 🫧 **Bubble Plots:** Encoded three-dimensional feature spaces directly into relative spatial dot-radius markers.
+* 🍕 **Proportions:** Maintained clean visual asset distributions across complex categorical charts.
+* 🏗️ **OOP Abstraction:** Commanded granular control over low-level Figure and Axes object parameters via the Matplotlib API.
+
+---
+
+## 🛠️ Production Tech Stack & Ecosystem
+
+| Core Language | Primary Engine | Data Processor | Math Foundation | Environment |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) |
