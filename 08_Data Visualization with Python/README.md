@@ -1,3 +1,30 @@
+<div align="center">
+
+# Course 8: 📉 Data Visualization with Python
+
+---
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/5e390e91d53df212099a3811990c4c6c)
+[![Status](https://img.shields.io/badge/Progress-Course%2008%20Complete-success?style=for-the-badge)](https://coursera.org/share/5e390e91d53df212099a3811990c4c6c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+---
+
+## 🚀 Professional Badges & Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+* 🎓 **Coursera Professional Certificate Verified**
+* 🏅 **IBM Data Science Digital Badge Issued**
+<div align="center">
+
+| **Digital Competency Badge** | **Official Certificate** |
+| :---: | :---: |
+| <a href="https://www.credly.com/badges/7f5483ef-dc48-4397-8873-4390407588b2/public_url"><img src="../assets/badges/008_Data Visualization with Python.png" width="220" alt="IBM Badge"></a> | <a href="https://coursera.org/share/8d45a1c95289689214bbffda162d174d"><img src="../assets/certificates/008 Coursera Data Visualization with Python-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/7f5483ef-dc48-4397-8873-4390407588b2/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/5e390e91d53df212099a3811990c4c6c) |
+
+</div>
+
 
 # 📊 IBM Data Science Professional Certificate: Data Visualization with Python
 
