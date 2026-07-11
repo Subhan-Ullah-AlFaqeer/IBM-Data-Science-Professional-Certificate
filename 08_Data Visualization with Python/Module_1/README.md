@@ -4,44 +4,50 @@ Welcome to the first module of my **Data Visualization with Python** track! This
 
 ---
 
-## 📝 Module Overview
-In this module, I transitioned from raw data manipulation into the critical field of **graphical data analysis**. I studied the historical development and multi-layered backend engine of **Matplotlib**, learning how to leverage its structural framework to transform flat, unreadable data frames into clear, presentation-ready visual insights.
-
-Through hands-on interactive labs, I developed end-to-end plotting workflows within Jupyter environments. I focused on tracking continuous long-term trends by building descriptive line plots using a multi-decade dataset of Canadian immigration patterns. Finally, I expanded my analytics skillset by stepping into geographic data layers—learning how to initialize data map canvases, map coordinate attributes, and design interactive geospatial visualizations.
-
----
-
-## 🧪 Hands-On Labs & Codebase Architecture
-
-This module features three essential labs mapping out the initial data preprocessing and visualization lifecycle. Click on any file path below to explore the scripts:
-
-### 🐼 1. Data Ingestion & Schema Alignment
-* 📂 **[`01_DV0101EN-Exercise-Dataset-Preprocessing-Exploring-with-Pandas.ipynb`](01_DV0101EN-Exercise-Dataset-Preprocessing-Exploring-with-Pandas.ipynb)**
-    * *In-depth data wrangling, index modifications, and columns re-mapping of the multi-decade Canadian Immigration dataset to optimize it for visualization engines.*
-
-### 📈 2. Time-Series Trend Engineering
-* 📂 **[`02_DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots--v2.ipynb`](02_DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots--v2.ipynb)**
-    * *Interacting with Matplotlib's functional scripting layer to plot clear, custom time-series line charts tracking international migration velocities.*
-
-### 🗺️ 3. Interactive Geospatial Mapping
-* 📂 **[`03_DV0101EN-Exercise-Generating-Maps-in-Python.ipynb`](03_DV0101EN-Exercise-Generating-Maps-in-Python.ipynb)**
-    * *Constructing interactive global geographic maps and deploying latitude/longitude coordinate markers to visualize regional spatial densities.*
+## 📝 Core Technical Objectives
+* **Graphical Data Transition:** Upgrading raw data engineering protocols into structured visual analysis to transform multi-dimensional arrays into clear presentations.
+* **Architecture Dissection:** Exploring the internal mechanics of Matplotlib's multi-layered layout engine to establish complete design authority over graphic renders.
+* **Geospatial Foundations:** Layering spatial geographic coordinates to build basic responsive map interfaces mapped to static relational fields.
 
 ---
 
-## 🎯 Technical Competencies Mastered
+## 🧪 Interactive Laboratory & Visual Selection Matrix
 
-* 🧠 **Visual Communication Design:** Implemented chart layout best practices to reduce data clutter, maximize ink-to-data ratios, and select clear color hierarchies.
-* 🏗️ **Matplotlib Scripting Layer:** Dissected the inner mechanics of Matplotlib's backend, artist, and scripting layers to maintain precise control over figure components.
-* 📉 **Continuous Trend Identification:** Programmed highly customized line plots to extract global demographic movements and inflection points over extended time intervals.
-* 🗺️ **Geospatial Overlay Methods:** Configured custom GIS visual map instances using Python geolocation packages, blending coordinate telemetry data directly with standard data frames.
-* 🛠️ **Visualization-Targeted Pandas Slicing:** Mastered advanced multi-indexing, index resetting, and aggregation rules required to transform raw rows into summary plot data structures.
+Rather than standard list configurations, my practical lab deliverables are mapped directly to their specific data relationship use cases:
+
+| Notebook Pipeline | Integrated Visual Tools | Production Use Case & Insights |
+| :--- | :--- | :--- |
+| **[Lab 1: Data Schema Prep](./01_DV0101EN-Exercise-Dataset-Preprocessing-Exploring-with-Pandas.ipynb)** | 🐼 **Pandas Preprocessing Engine** | Cleaning, cleaning multi-decade metrics, altering table indexes, and structural engineering to align fields for visualization. |
+| **[Lab 2: Trend Customization](./02_DV0101EN-Exercise-Introduction-to-Matplotlib-and-Line-Plots--v2.ipynb)** | 📈 **Matplotlib Scripting Layer** | Programming responsive continuous time-series line charts tracking international migration velocity patterns. |
+| **[Lab 3: Geospatial Canvasing](./03_DV0101EN-Exercise-Generating-Maps-in-Python.ipynb)** | 🗺️ **GIS Core Map Generators** | Generating global geography canvases and mapping spatial point coordinate matrices to visualize population arrays. |
+
+---
+
+## 💡 Visual Pipeline Reference
+
+Chart configurations mapped systematically by incoming data structure requirements:
+
+* **Relational Field Wrangling** ➔ Deployed via **Pandas Pipelines** to frame clean plotting dimensions.
+* **Continuous Interval Trajectories** ➔ Deployed via **Time-Series Line Plots** to track performance movements.
+* **Coordinate Telemetry Layouts** ➔ Deployed via **Interactive Geographic Maps** to establish initial spatial frameworks.
+
+---
+
+## 🎯 Technical Skills Architecture
+
+### 📊 Exploratory Visual Pipelines
+* 🧠 **Visual Communication Design:** Implemented chart formatting protocols to drop non-essential layout ink and secure high-impact color hierarchies.
+* 🏗️ **Matplotlib Abstraction Layers:** Dissected the internal mechanics of Matplotlib's backend engines to maximize manual plot item placements.
+* 📉 **Continuous Trend Trajectories:** Scripted specialized multi-decade line projections to isolate population movement spikes and long-term drop patterns.
+
+### 🛠️ Data & GIS Architecture
+* 🗺️ **Geospatial Mapping Frameworks:** Initialized geographic map layers using spatial libraries to seamlessly join telemetry fields with relational rows.
+* 🐼 **Visualization-Targeted Slicing:** Formulated complex Pandas index pivots, multi-level row grouping tools, and filtered extractions to feed graphics engines.
 
 ---
 
 ## 🛠️ Production Tech Stack & Ecosystem
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77AA99?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+| Core Language | Primary Engine | Data Processor | Spatial Mapper | Environment |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) | ![Folium](https://img.shields.io/badge/Folium-77AA99?style=flat&logo=python&logoColor=white) | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) |
