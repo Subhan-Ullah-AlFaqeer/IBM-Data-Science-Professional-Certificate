@@ -11,17 +11,17 @@
 
 ---
 
-
 ## 🚀 Professional Badges & Credentials
 Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
 * 🎓 **Coursera Professional Certificate Verified**
 * 🏅 **IBM Data Science Digital Badge Issued**
+* 🎖️ **IBM Data Science Digital Badge Verified**
 <div align="center">
 
-| **Digital Competency Badge** | **Official Certificate** |
-| :---: | :---: |
-| <a href="https://www.credly.com/badges/856a12f2-a63d-4ecc-ace3-d2eaa8381d45/public_url"><img src="../assets/badges/004_Python for Data Science and AI.png" width="250" alt="IBM Badge"></a> | <a href="https://coursera.org/share/b73568487748b8a3e4628eb620f752c3"><img src="../assets/certificates/004 Coursera Python for Data Science, AI & Development-1.png" width="380" alt="View Certificate"></a> |
-| [🛡️ Verify on Credly](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/e6767d2bcae60ed2e62594da8c82e560]) |
+| **Digital Competency Badge** |**Badge Certificate** | **Official Certificate** |
+| :---:| :---: | :---: |
+| <a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badges/004_Python for Data Science and AI.png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badgesCerts/004_Python for Data Science and AI-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/b73568487748b8a3e4628eb620f752c3"><img src="../assets/certificates/004 Coursera Python for Data Science, AI & Development-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/e6767d2bcae60ed2e62594da8c82e560) |
 
 </div>
 
