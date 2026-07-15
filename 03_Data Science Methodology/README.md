@@ -10,17 +10,17 @@
 
 ---
 
-
 ## 🚀 Professional Badges & Credentials
 Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
 * 🎓 **Coursera Professional Certificate Verified**
 * 🏅 **IBM Data Science Digital Badge Issued**
+* 🎖️ **IBM Data Science Digital Badge Verified**
 <div align="center">
 
-| **Digital Competency Badge** | **Official Certificate** |
-| :---: | :---: |
-| <a href="https://www.credly.com/badges/417c08c0-d55a-4c3c-a0d4-3b2f446560fa/public_url"><img src="../assets/badges/003_Data Science Methodology.png" width="220" alt="IBM Methodology Badge"></a> | <a href="https://coursera.org/share/ff00f0e6ed76d1e09cd817fe984c2c09"><img src="../assets/certificates/003 Coursera Data Science Methodology-1.png" width="380" alt="Certificate"></a> |
-| [🛡️ Verify on Credly](https://www.credly.com/badges/417c08c0-d55a-4c3c-a0d4-3b2f446560fa/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/ff00f0e6ed76d1e09cd817fe984c2c09) |
+| **Digital Competency Badge** |**Badge Certificate** | **Official Certificate** |
+| :---:| :---: | :---: |
+| <a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badges/003_Data Science Methodology.png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badgesCerts/003_Data Science Methodology-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/b73568487748b8a3e4628eb620f752c3"><img src="../assets/certificates/003 Coursera Data Science Methodology-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/417c08c0-d55a-4c3c-a0d4-3b2f446560fa/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/417c08c0-d55a-4c3c-a0d4-3b2f446560fa/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/ff00f0e6ed76d1e09cd817fe984c2c09) |
 
 </div>
 
