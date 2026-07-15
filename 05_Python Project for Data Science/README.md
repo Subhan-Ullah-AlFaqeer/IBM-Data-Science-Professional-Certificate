@@ -11,17 +11,17 @@
 
 ---
 
-
 ## 🚀 Professional Badges & Credentials
 Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
 * 🎓 **Coursera Professional Certificate Verified**
 * 🏅 **IBM Data Science Digital Badge Issued**
+* 🎖️ **IBM Data Science Digital Badge Verified**
 <div align="center">
 
-| **Digital Competency Badge** | **Official Certificate** |
-| :---: | :---: |
-| <a href="https://www.credly.com/badges/4686c143-3c5e-4e61-b55e-d1d6f6d16a36/public_url"><img src="../assets/badges/005_Python Project for Data Science.png" width="220" alt="IBM Badge"></a> | <a href="https://coursera.org/share/8d45a1c95289689214bbffda162d174d"><img src="../assets/certificates/005 Coursera Python Project for Data Science-1.png" width="380" alt="View Certificate"></a> |
-| [🛡️ Verify on Credly](https://www.credly.com/badges/4686c143-3c5e-4e61-b55e-d1d6f6d16a36/public_url) | [🛡️ Verify on Coursera](https://coursera.org/share/8d45a1c95289689214bbffda162d174d) |
+| **Digital Competency Badge** |**Badge Certificate** | **Official Certificate** |
+| :---:| :---: | :---: |
+| <a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badges/005_Python Project for Data Science.png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/5319b716-40fc-4f08-8142-02ce492a037d/public_url"><img src="../assets/badgesCerts/005_Python Project for Data Science-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/b73568487748b8a3e4628eb620f752c3"><img src="../assets/certificates/005 Coursera Python Project for Data Science-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/4686c143-3c5e-4e61-b55e-d1d6f6d16a36/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/4686c143-3c5e-4e61-b55e-d1d6f6d16a36/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/8d45a1c95289689214bbffda162d174d) |
 
 </div>
 
