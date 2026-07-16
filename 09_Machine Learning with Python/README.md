@@ -1,3 +1,30 @@
+<div align="center">
+
+# Course 9: 🧠 Machine Learning with Python
+
+---
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/320e76d8e3d0e2237a10cb9667174433)
+[![Status](https://img.shields.io/badge/Progress-Course%2009%20Complete-success?style=for-the-badge)](https://coursera.org/share/320e76d8e3d0e2237a10cb9667174433)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+---
+
+## 🚀 Professional Badges & Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+* 🎓 **Coursera Professional Certificate Verified**
+* 🏅 **IBM Data Science Digital Badge Issued**
+* 🎖️ **IBM Data Science Digital Badge Verified**
+<div align="center">
+
+| **Digital Competency Badge** |**Badge Certificate** | **Official Certificate** |
+| :---:| :---: | :---: |
+| <a href="https://www.credly.com/badges/225beea9-f7c2-4c29-b3f0-44cff376c3b4/public_url"><img src="../assets/badges/009_Machine Learning with Python (V2).png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/225beea9-f7c2-4c29-b3f0-44cff376c3b4/public_url"><img src="../assets/badgesCerts/009_Machine Learning with Python (V2)-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/320e76d8e3d0e2237a10cb9667174433"><img src="../assets/certificates/009 Coursera Machine Learning with Python-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/225beea9-f7c2-4c29-b3f0-44cff376c3b4/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/225beea9-f7c2-4c29-b3f0-44cff376c3b4/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/320e76d8e3d0e2237a10cb9667174433) |
+
+</div>
 
 # 🧠 IBM Data Science Professional Certificate: Machine Learning with Python
 
