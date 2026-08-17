@@ -1,3 +1,29 @@
+<div align="center">
+  
+# 🚀 IBM Data Science Professional Certificate
+ --- 
+# Course 12: 💼 Data Science Career & Job Search Strategy
+---
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/5c1f23fd204527b0e3fdb5d61d26d389)
+[![Status](https://img.shields.io/badge/Progress-Course%20012%20Complete-success?style=for-the-badge)](https://coursera.org/share/5c1f23fd204527b0e3fdb5d61d26d389)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+
+## 🚀 Professional Badges & Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+* 🎓 **Coursera Professional Certificate Verified**
+
+<div align="center">
+
+| **Official Certificate** |
+| :---: |
+|<a href="https://coursera.org/share/5c1f23fd204527b0e3fdb5d61d26d389"><img src="../assets/certificates/012 Coursera Data Scientist Career Guide and Interview Preparation-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Coursera](https://coursera.org/share/5c1f23fd204527b0e3fdb5d61d26d389) |
+
+</div>
 
 # 💼 IBM Data Science Professional Certificate: Data Science Career & Job Search Strategy
 
