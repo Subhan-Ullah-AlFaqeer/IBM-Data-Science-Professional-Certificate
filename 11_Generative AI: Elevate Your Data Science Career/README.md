@@ -1,4 +1,32 @@
+<div align="center">
+  
+# 🚀 IBM Data Science Professional Certificate
+ --- 
+# Course 11: 🤖 Generative AI for Data Science
 
+---
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/0d00350dcf97eb03383fd26c7ff7b4e8)
+[![Status](https://img.shields.io/badge/Progress-Course%20011%20Complete-success?style=for-the-badge)](https://coursera.org/share/0d00350dcf97eb03383fd26c7ff7b4e8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+---
+
+## 🚀 Professional Badges & Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+* 🎓 **Coursera Professional Certificate Verified**
+* 🏅 **IBM Data Science Digital Badge Issued**
+* 🎖️ **IBM Data Science Digital Badge Verified**
+<div align="center">
+
+| **Digital Competency Badge** |**Badge Certificate** | **Official Certificate** |
+| :---:| :---: | :---: |
+| <a href="https://www.credly.com/badges/dad48440-942b-495a-b1ff-919796566a8a/public_url"><img src="../assets/badges/011_Generative AI Essentials for Data Science.png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/4743b8dd-6d92-4dbe-b2a2-beaf009103ce/public_url"><img src="../assets/badgesCerts/011_Generative AI Essentials for Data Science-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/0d00350dcf97eb03383fd26c7ff7b4e8"><img src="../assets/certificates/011 Coursera Generative AI_ Elevate Your Data Science Career-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/dad48440-942b-495a-b1ff-919796566a8a/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/dad48440-942b-495a-b1ff-919796566a8a/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/eeb3a22bea7206a8751265c473e2a558) |
+
+</div>
 # 🤖 IBM Data Science Professional Certificate: Generative AI for Data Science
 
 Welcome to the central repository for **Generative AI: Elevate Your Data Science Career**. This course focuses on the intersection of Large Language Models (LLMs) and the traditional data science lifecycle, providing hands-on skills for automated data engineering, conversational analytics, and ethical AI deployment.
