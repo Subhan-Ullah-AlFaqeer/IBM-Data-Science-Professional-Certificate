@@ -1,3 +1,33 @@
+<div align="center">
+  
+# 🏆 IBM Data Science Professional Certificate 
+ --- 
+
+
+---
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/f793b89ff038686f668218926fb7734b)
+[![Status](https://img.shields.io/badge/Progress-Course%20%20Completed-success?style=for-the-badge)](https://coursera.org/share/f793b89ff038686f668218926fb7734b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+
+## 🚀 Professional Badges & Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+* 🎓 **Coursera Professional Certificate Verified**
+* 🏅 **IBM Data Science Digital Badge Issued**
+* 🎖️ **IBM Data Science Digital Badge Verified**
+<div align="center">
+
+| **Digital Competency Badge** |**Badge Certificate** | **Official Certificate** |
+| :---:| :---: | :---: |
+| <a href="https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url"><img src="../assets/badges/IBM Data Science Professional Certificate (V3).png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url"><img src="../assets/badgesCerts/IBM Data Science Professional Certificate (V3)-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/f793b89ff038686f668218926fb7734b"><img src="/assets/certificates/Coursera IBM Data Science Professional Certificate-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/f793b89ff038686f668218926fb7734b) |
+
+</div>
+
+
 # 🏆 IBM Data Science Professional Certificate — Master Portfolio
 
 Welcome to the central repository for my **IBM Data Science Professional Certificate** journey—a comprehensive 12-course program covering the full data science lifecycle, from initial data gathering and SQL querying to advanced machine learning, Generative AI augmentation, and career deployment.
