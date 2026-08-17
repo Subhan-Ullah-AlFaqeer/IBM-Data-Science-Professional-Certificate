@@ -2,7 +2,7 @@
 
 **Estimated time needed**: **30** minutes
 
-## Introduction
+## Introduction.
 
 One of the principal advantages of generative AI is its ability to generate realistic synthetic data. Synthetic data is generated when a pretrained generative model responds to a prompt, creates new data samples, or performs transfer learning on a given dataset. In addition, it generates samples that augment the existing data set while preserving its statistical distribution and interpretability.
 
