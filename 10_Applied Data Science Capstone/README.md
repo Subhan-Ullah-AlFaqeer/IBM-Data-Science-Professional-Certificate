@@ -1,3 +1,33 @@
+<div align="center">
+  
+# 🚀 IBM Data Science Professional Certificate
+ --- 
+# Course 10: 🚀  Applied Data Science Capstone
+
+
+---
+
+[![IBM Specialization](https://img.shields.io/badge/Certification-IBM%20Data%20Science-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/eeb3a22bea7206a8751265c473e2a558)
+[![Status](https://img.shields.io/badge/Progress-Course%20010%20Complete-success?style=for-the-badge)](https://coursera.org/share/eeb3a22bea7206a8751265c473e2a558)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhan-ullah-alfaqeer)
+
+</div>
+
+---
+
+## 🚀 Professional Badges & Credentials
+Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
+* 🎓 **Coursera Professional Certificate Verified**
+* 🏅 **IBM Data Science Digital Badge Issued**
+* 🎖️ **IBM Data Science Digital Badge Verified**
+<div align="center">
+
+| **Digital Competency Badge** |**Badge Certificate** | **Official Certificate** |
+| :---:| :---: | :---: |
+| <a href="https://www.credly.com/badges/4743b8dd-6d92-4dbe-b2a2-beaf009103ce/public_url"><img src="../assets/badges/010_Applied Data Science Capstone.png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/4743b8dd-6d92-4dbe-b2a2-beaf009103ce/public_url"><img src="../assets/badgesCerts/010_Applied Data Science Capstone-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/eeb3a22bea7206a8751265c473e2a558"><img src="../assets/certificates/010 Coursera Applied Data Science Capstone-1.png" width="380" alt="View Certificate"></a> |
+| [🛡️ Verify on Credly](https://www.credly.com/badges/225beea9-f7c2-4c29-b3f0-44cff376c3b4/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/4743b8dd-6d92-4dbe-b2a2-beaf009103ce/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/eeb3a22bea7206a8751265c473e2a558) |
+
+</div>
 
 # 🚀 IBM Data Science Professional Certificate: Applied Data Science Capstone
 
@@ -8,12 +38,12 @@ In this capstone, you assume the role of a Lead Data Scientist at an aerospace s
 
 ## 🗺️ Master Curriculum & Core Learning Architecture
 
-🚀 APPLIED DATA SCIENCE CAPSTONE<br>
-├── 🛰️ Module 1: Data Collection (API & Web Scraping) & Data Wrangling<br>
-├── 🔍 Module 2: Exploratory Data Analysis (EDA) with SQL & Data Visualization<br>
-├── 🗺️ Module 3: Interactive Visual Analytics (Folium Maps & Plotly Dash)<br>
-├── 🤖 Module 4: Predictive Machine Learning & Hyperparameter Optimization<br>
-└── 📢 Module 5: Executive Capstone Presentation & Strategic Findings<br>
+🚀 APPLIED DATA SCIENCE CAPSTONE
+- ├── 🛰️ Module 1: Data Collection (API & Web Scraping) & Data Wrangling
+- ├── 🔍 Module 2: Exploratory Data Analysis (EDA) with SQL & Data Visualization
+- ├── 🗺️ Module 3: Interactive Visual Analytics (Folium Maps & Plotly Dash)
+- ├── 🤖 Module 4: Predictive Machine Learning & Hyperparameter Optimization
+- └── 📢 Module 5: Executive Capstone Presentation & Strategic Findings
 
 
 
