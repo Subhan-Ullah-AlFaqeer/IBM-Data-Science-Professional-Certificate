@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 ## 🚀 Professional Badges & Credentials
 Upon the successful completion of this rigorous engineering track, I have earned the following industry-recognized credentials:
@@ -27,6 +26,8 @@ Upon the successful completion of this rigorous engineering track, I have earned
 | [🛡️ Verify on Credly](https://www.credly.com/badges/dad48440-942b-495a-b1ff-919796566a8a/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/dad48440-942b-495a-b1ff-919796566a8a/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/eeb3a22bea7206a8751265c473e2a558) |
 
 </div>
+
+
 # 🤖 IBM Data Science Professional Certificate: Generative AI for Data Science
 
 Welcome to the central repository for **Generative AI: Elevate Your Data Science Career**. This course focuses on the intersection of Large Language Models (LLMs) and the traditional data science lifecycle, providing hands-on skills for automated data engineering, conversational analytics, and ethical AI deployment.
