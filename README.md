@@ -22,7 +22,7 @@ Upon the successful completion of this rigorous engineering track, I have earned
 
 | **Digital Competency Badge** |**Badge Certificate** | **Official Certificate** |
 | :---:| :---: | :---: |
-| <a href="https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url"><img src="../assets/badges/IBM Data Science Professional Certificate (V3).png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url"><img src="../assets/badgesCerts/IBM Data Science Professional Certificate (V3)-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/f793b89ff038686f668218926fb7734b"><img src="/assets/certificates/Coursera IBM Data Science Professional Certificate-1.png" width="380" alt="View Certificate"></a> |
+| <a href="https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url"><img src="/assets/badges/IBM Data Science Professional Certificate (V3).png" width="220" alt="IBM Badge"></a> |<a href="https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url"><img src="/assets/badgesCerts/IBM Data Science Professional Certificate (V3)-1.png" width="220" alt="IBM Badge"></a> |<a href="https://coursera.org/share/f793b89ff038686f668218926fb7734b"><img src="/assets/certificates/Coursera  IBM Data Science Professional Certificate-1.png" width="380" alt="View Certificate"></a> |
 | [🛡️ Verify on Credly](https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url) | [🛡️ Verify on Credly](https://www.credly.com/badges/d6f6546d-4eaa-4a84-b614-fde398ed94ac/public_url)| [🛡️ Verify on Coursera](https://coursera.org/share/f793b89ff038686f668218926fb7734b) |
 
 </div>
